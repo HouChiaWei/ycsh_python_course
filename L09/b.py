@@ -1,2 +1,3 @@
-s = ['a','b','c','d','e']
-print(s[0:5:2])
+s = [0,1,2,3,4]
+s.reverse()
+print(s)
